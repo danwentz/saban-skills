@@ -1,0 +1,8 @@
+{
+  "name": "saban-skills",
+  "version": "1.0.0",
+  "description": "Three Claude skills built on Nick Saban's approach: process planning, 24-hour reviews, and roster building.",
+  "author": { "name": "Dan" },
+  "license": "MIT",
+  "keywords": ["planning", "review", "hiring", "sales", "leadership", "nick-saban"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "saban-skills",
+  "owner": { "name": "Dan" },
+  "plugins": [
+    {
+      "name": "saban-skills",
+      "source": "./",
+      "description": "Process planning, 24-hour reviews, and roster building, built on Nick Saban's approach."
+    }
+  ]
+}

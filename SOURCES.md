@@ -1,0 +1,17 @@
+# Sources
+
+- [FootballScoop: Nick Saban breaks down what "The Process" really is (2025)](https://www.footballscoop.com/2025/03/04/nick-saban-breaks-process-really-belief-began)
+- [FootballScoop: Saban on going from transactional to transformational coaching](https://footballscoop.com/nick-saban-shares-how-going-from-transaction-to-transformational-coaching-changed-his-entire-career-trajectory)
+- [SI: Saban's big-game success and the Process both started against Ohio State](https://www.si.com/college/alabama/bamacentral/alabama-football-nick-saban-big-game-success-the-process-ohio-state-1988-buckeyes-national-championship-game)
+- [NBC Sports Boston: The most important coaching lesson Belichick taught Saban](https://nbcsportsboston.com/nfl/new-england-patriots/heres-the-most-important-coaching-lesson-belichick-taught-saban/194988)
+- [Awful Announcing: "The rat poison that you put out there this week was yummy" (2021)](https://awfulannouncing.com/ncaa/nick-saban-to-media-the-rat-poison-that-you-put-out-there-this-week-was-yummy.html)
+- [SI: How Alabama players handled the 24-hour rule](https://www.si.com/college/alabama/football/how-alabama-football-players-handled-the-24-hour-rule-after-a-loss-01j9pgktcc2t)
+- [Saturday Down South: Saban wants Alabama not to waste a failing](https://www.saturdaydownsouth.com/news/college-football/nick-saban-wants-alabama-not-to-waste-a-failing/)
+- [1819 News: "Success can be an enemy to us all" (2023)](https://1819news.com/news/item/success-can-be-an-enemy-to-us-all-saban-encourages-players-to-stay-focused)
+- [Sportskeeda: "High achievers don't like mediocre people" (60 Minutes, 2013)](https://www.sportskeeda.com/college-football/news-high-achievers-like-mediocre-people-when-nick-saban-held-nothing-back-60-minutes-profile)
+- [Touchdown Alabama: Saban gives insight into recruitment process (2019)](https://tdalabamamag.com/2019/09/27/nick-saban-gives-insight-into-recruitment-process/)
+- [CBS Sports: How Steve Sarkisian found the answers he sought at Alabama](https://www.cbssports.com/college-football/news/how-texas-coach-steve-sarkisian-finally-found-the-answers-he-sought-at-alabama-under-nick-saban)
+- [SI: What Lane Kiffin taught Nick Saban about football](https://www.si.com/college/alabama/bamacentral/what-lane-kiffin-taught-nick-saban-about-football)
+- [SI: Trevor Moawad, college football's mental coach (2018)](https://www.si.com/college/2018/04/17/trevor-moawad-nfl-draft-russell-wilson-show-espn)
+- [theScore: Saban eats the same thing every day](https://www.thescore.com/ncaaf/news/274290/sms:)
+- [Shortform summary: *The Leadership Secrets of Nick Saban* by John Talty](https://www.shortform.com/pdf/the-leadership-secrets-of-nick-saban-pbp18613-b-pdf-john-talty)
