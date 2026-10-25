@@ -14,14 +14,14 @@ They work as a loop: plan the process, run it, review it, keep the right people 
 
 ### Claude apps (claude.ai, desktop, mobile)
 
-1. Download a skill zip from the [`dist/`](dist/) folder (or from the Releases page).
+1. Download a skill zip from the [`dist/`](dist/) folder (or from the [latest release](https://github.com/danwentz/saban-skills/releases/latest)).
 2. In Claude, open the Skills section of your settings and upload the zip.
 3. Do the same for each skill you want.
 
 ### Claude Code: plugin marketplace
 
 ```
-/plugin marketplace add <your-github-username>/saban-skills
+/plugin marketplace add danwentz/saban-skills
 /plugin install saban-skills@saban-skills
 ```
 
@@ -30,7 +30,7 @@ They work as a loop: plan the process, run it, review it, keep the right people 
 Copy each folder in `skills/` into `~/.claude/skills/` (just for you) or `.claude/skills/` (for one project):
 
 ```bash
-git clone https://github.com/<your-github-username>/saban-skills.git
+git clone https://github.com/danwentz/saban-skills.git
 cp -r saban-skills/skills/* ~/.claude/skills/
 ```
 
