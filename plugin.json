@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "saban-skills",
+  "version": "1.0.0",
+  "description": "Three skills built on Nick Saban's approach: process planning, 24-hour reviews, and roster building.",
+  "author": { "name": "Dan Wentz" },
+  "license": "MIT",
+  "keywords": ["planning", "review", "hiring", "sales", "leadership", "nick-saban"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Saban Skills",
+        "shortDescription": "Process planning, 24-hour reviews, and roster building, Saban style.",
+        "longDescription": "Turn a big goal into daily standards you control, review wins and losses the same way within 24 hours, and pick people and prospects against a written list of critical factors.",
+        "developerName": "Dan Wentz",
+        "category": "Productivity",
+        "websiteURL": "https://github.com/danwentz/saban-skills",
+        "defaultPrompt": [
+          "I need to hit $400K in new business by Q3. Build me the process.",
+          "I lost a big renewal today. Run the 24-hour review.",
+          "Here are five prospects. Grade them like Saban would grade recruits."
+        ]
+      }
+    }
+  }
+}

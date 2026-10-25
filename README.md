@@ -36,7 +36,14 @@ cp -r saban-skills/skills/* ~/.claude/skills/
 
 ### OpenAI Codex (CLI, IDE extension, ChatGPT desktop app)
 
-These skills follow the open [Agent Skills](https://agentskills.io) format, which Codex also reads. Copy them into `~/.agents/skills/` (just for you) or `.agents/skills/` in a repo (for one project):
+Install as a plugin:
+
+```
+codex plugin marketplace add danwentz/saban-skills
+codex plugin add saban-skills@saban-skills
+```
+
+Or install manually. These skills follow the open [Agent Skills](https://agentskills.io) format, which Codex also reads. Copy them into `~/.agents/skills/` (just for you) or `.agents/skills/` in a repo (for one project):
 
 ```bash
 git clone https://github.com/danwentz/saban-skills.git
