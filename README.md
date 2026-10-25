@@ -1,6 +1,6 @@
 # Saban Skills for Claude
 
-Three Claude skills based on how Nick Saban ran his programs. He won seven national titles (LSU 2003; Alabama 2009, 2011, 2012, 2015, 2017, 2020). Each skill takes one part of his approach and turns it into a step-by-step workflow you can use for sales, hiring, projects or any other goal.
+Three AI agent skills (Claude, Codex and other Agent Skills tools) based on how Nick Saban ran his programs. He won seven national titles (LSU 2003; Alabama 2009, 2011, 2012, 2015, 2017, 2020). Each skill takes one part of his approach and turns it into a step-by-step workflow you can use for sales, hiring, projects or any other goal.
 
 | Skill | Use it when | What you get |
 |---|---|---|
