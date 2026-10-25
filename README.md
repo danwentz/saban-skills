@@ -34,6 +34,22 @@ git clone https://github.com/danwentz/saban-skills.git
 cp -r saban-skills/skills/* ~/.claude/skills/
 ```
 
+### OpenAI Codex (CLI, IDE extension, ChatGPT desktop app)
+
+These skills follow the open [Agent Skills](https://agentskills.io) format, which Codex also reads. Copy them into `~/.agents/skills/` (just for you) or `.agents/skills/` in a repo (for one project):
+
+```bash
+git clone https://github.com/danwentz/saban-skills.git
+mkdir -p ~/.agents/skills
+cp -r saban-skills/skills/* ~/.agents/skills/
+```
+
+Restart Codex if they don't show up. Invoke one with `$saban-process-plan`, or just describe your goal and Codex will pick the right skill.
+
+### Other agents
+
+Any tool that supports Agent Skills (`SKILL.md` folders) can use these. Copy the folders in `skills/` into that tool's skills directory.
+
 ## Example prompts
 
 - "I need to write $400K in new commercial premium by Q3 next year. Build me the process."
